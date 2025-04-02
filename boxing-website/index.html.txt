@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Boxing - Beginner Tips and Workouts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Learn Boxing: A Beginner's Guide</h1>
+        <nav>
+            <ul>
+                <li><a href="#workouts">Workouts</a></li>
+                <li><a href="#tips">Tips</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="workouts">
+        <h2>Beginner Workouts</h2>
+        <div class="workout">
+            <h3>1. Shadow Boxing</h3>
+            <p>Start with 3 rounds of 3 minutes of shadow boxing to warm up. Focus on form and technique—throw punches as if you're facing an opponent.</p>
+        </div>
+        <div class="workout">
+            <h3>2. Jump Rope</h3>
+            <p>Jump rope for 5 minutes to improve footwork and endurance. This is great for overall conditioning and coordination.</p>
+        </div>
+        <div class="workout">
+            <h3>3. Heavy Bag Work</h3>
+            <p>Work on combinations and power with the heavy bag. Start with 3 rounds of 2 minutes each, focusing on throwing jab-cross combos.</p>
+        </div>
+    </section>
+
+    <section id="tips">
+        <h2>Boxing Tips for Beginners</h2>
+        <ul>
+            <li><strong>Focus on Form:</strong> Always make sure your form is correct. This will help prevent injuries and improve your effectiveness in the ring.</li>
+            <li><strong>Conditioning is Key:</strong> Boxing is not just about power, but endurance. Make sure to work on your stamina with cardio and strength training.</li>
+            <li><strong>Footwork:</strong> Great footwork is essential. Practice moving around the ring and maintaining balance at all times.</li>
+            <li><strong>Stay Consistent:</strong> Progress comes with regular practice. Make boxing part of your routine to build skills and improve over time.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Created by Miguel Echevarria - 2025</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
